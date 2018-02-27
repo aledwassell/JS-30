@@ -3,3 +3,4 @@ node_modules/
 *.log
 haters/
 *.mp4
+*.wav
